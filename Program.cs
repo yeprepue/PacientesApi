@@ -1,6 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using PacientesApi.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+// Configurar Entity Framework Core con SQL Server
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
