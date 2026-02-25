@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\PacientesApi.csproj": {}
+    "c:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\PacientesApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\PacientesApi.csproj": {
+    "c:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\PacientesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\PacientesApi.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\PacientesApi.csproj",
         "projectName": "PacientesApi",
-        "projectPath": "C:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\PacientesApi.csproj",
+        "projectPath": "c:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\PacientesApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\obj\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\prueba-pacientes-.net-angular\\PacientesApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
