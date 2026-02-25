@@ -69,10 +69,5 @@ namespace PacientesApi.Modules.Pacientes.Controllers
             return Ok(result);
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View("Error!");
-        }
     }
 }
