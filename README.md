@@ -40,3 +40,7 @@ El proyecto organiza la lógica de pacientes dentro de un módulo dedicado:
    ```bash
    git clone [https://github.com/yeprepue/PacientesApi.git](https://github.com/yeprepue/PacientesApi.git)
    cd PacientesApi
+```
+
+<img width="1904" height="935" alt="image" src="https://github.com/user-attachments/assets/60a9956f-36b1-4d5d-bb84-fd60e1da001c" />
+
