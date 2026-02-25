@@ -1,6 +1,6 @@
 # Pacientes API 🏥
 
-Una API robusta desarrollada en **.NET 8** para la gestión centralizada de pacientes. Este proyecto implementa un sistema CRUD (Crear, Leer, Actualizar, Eliminar) siguiendo las mejores prácticas de arquitectura limpia, inyección de dependencias y el patrón repositorio/servicio.
+Una API desarrollada en **.NET 8** para la gestión centralizada de pacientes. Este proyecto implementa un sistema CRUD (Crear, Leer, Actualizar, Eliminar) siguiendo las mejores prácticas de arquitectura limpia, inyección de dependencias y el patrón repositorio/servicio.
 
 ## 🚀 Características
 
