@@ -63,12 +63,12 @@ O utiliza dotnet watch run para habilitar el Hot Reload mientras programas.
 
 ## 📋 Endpoints Principales
 
-Método	Endpoint	Acción
-GET	   /api/paciente	Listar todos los registros.
-GET	   /api/paciente/{id}	Consultar por ID único.
-POST	   /api/paciente	Crear un nuevo registro.
-PUT	   /api/paciente/{id}	Actualización total de entidad.
-DELETE	/api/paciente/{id}	Eliminación física del registro.
+Método	    Endpoint	            Acción
+GET	       /api/paciente	        Listar todos los registros.
+GET        /api/paciente/{id}	    Consultar por ID único.
+POST       /api/paciente	        Crear un nuevo registro.
+PUT	       /api/paciente/{id}	    Actualización total de entidad.
+DELETE     /api/paciente/{id}	    Eliminación física del registro.
 
 ## 🔍 Testing & Documentation
 Una vez iniciada la API, accede a la documentación interactiva en:
