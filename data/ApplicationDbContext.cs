@@ -7,6 +7,6 @@ namespace PacientesApi.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
         
-        public DbSet<Paciente> pacientes { get; set; }    
+        public DbSet<Paciente> Pacientes { get; set; }    
     }
 }
